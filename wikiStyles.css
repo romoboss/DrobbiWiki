@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    background:#020830;
+    color:white;
+}
+
+a {
+    color:#1e90ff;
+    text-decoration:none;
+}
+
+a:visited {
+    color: #c58af9;
+}
+
+em {
+    color:#c5fffb;
+}
+
+#wikiLayout {
+    display:flex;
+    max-width:1200px;
+    margin:auto;
+    background:#010624;
+}
+
+#wikiMain {
+    padding:20px;
+    flex:1;
+}
+
+#wikiContent img {
+    max-width: 150px;
+    height: auto;    
+    margin: 5px;   
+    display: inline-block; 
+    vertical-align: top; 
+}
+
+#wikiContent .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 15px;
+    margin: 10px 0;
+}
+
+#wikiContent .gallery-item {
+    text-align: center;
+}
+
+#wikiContent .gallery-item img {
+    max-width: 140px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #86a8b7;
+    background-color: #124d69;
+    border-radius: 4px;
+}
+
+#wikiContent .gallery-item .caption {
+    margin-top: 5px;
+    font-size: 0.9em;
+    color: #dcdcdc;
+}
+
+.infobox {
+    float:right;
+    width:250px;
+    background:#060f48;
+    border:1px solid #0b155a;
+    margin:10px;
+}
+
+.infobox img {
+    width:100%;
+}
+
+.infobox th {
+    text-align:left;
+    background:#020830;
+}
+
+.category {
+    background:#030d4c;
+    padding:5px;
+    margin:3px;
+    display:inline-block;
+}
