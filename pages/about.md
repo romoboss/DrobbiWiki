@@ -1,6 +1,6 @@
 ---
-image: DrobbiBirdIcon.png
 title: Drobbi Bird
+image: DrobbiBirdIcon.png
 Developer: romoboss
 Game Engine: Unity
 Platforms: Android, Windows
@@ -15,7 +15,7 @@ Version: 1.611
 
 *Drobbi Bird* is inspired by the classic game *Flappy Bird*. Players control a character equipped with a jetpack, tapping the screen to propel upward. The objective is to navigate through an endless series of pipes without colliding with them.
 
-What makes the game unique is the ability for the players to choose their preferred playable [skin](?page=Characters), and play as that skin in one of the many available [gamemodes](?page=Gamemodes).
+What makes the game unique is the ability for the players to choose their preferred playable [skin](?page=characters), and play as that skin in one of the many available [gamemodes](?page=gamemodes).
 
 ## Development and Release
 

@@ -1,3 +1,7 @@
+---
+title: Characters
+---
+
 ## Skins (Unlockable Playable Characters)
 
 **As of update 1.611, there are currently 42 skins in [Drobbi Bird](?page=about):**
