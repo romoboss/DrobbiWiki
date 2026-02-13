@@ -39,7 +39,7 @@ Fliph|Use Code
 Flapoff|Buy at the shop
 Colory|Buy at the shop
 Paura|Buy at the shop
-PalF|Buy at the shop
+palF|Buy at the shop
 Toaxic|Buy at the shop
 Robbi|Buy at the shop
 Hairy|Buy at the shop
