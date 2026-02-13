@@ -1,38 +1,40 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta charset="UTF-8">
-<title>Wiki</title>
+    <meta charset="UTF-8">
+    <title>Wiki</title>
 
-<link rel="stylesheet" href="/wikiStyles.css">
+    <link rel="stylesheet" href="/wikiStyles.css">
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <script src="/wikiParser.js"></script>
+    <script src="/wikiRouter.js"></script>
 
 </head>
 
 <body>
 
-<div id="wikiLayout">
-    <aside id="wikiSidebar"></aside>
+    <div id="wikiLayout">
+        <aside id="wikiSidebar"></aside>
 
-    <main id="wikiMain">
+        <main id="wikiMain">
 
-        <h1 id="pageTitle"></h1>
+            <h1 id="pageTitle"></h1>
 
-        <div id="infobox"></div>
+            <div id="infobox"></div>
 
-        <div id="toc"></div>
+            <div id="toc"></div>
 
-        <article id="wikiContent"></article>
+            <article id="wikiContent"></article>
 
-        <div id="categories"></div>
+            <div id="categories"></div>
 
-    </main>
+        </main>
 
-</div>
-
-<script src="/wikiParser.js"></script>
-<script src="/wikiRouter.js"></script>
+    </div>
 
 </body>
+
 </html>

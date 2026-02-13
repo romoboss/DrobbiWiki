@@ -5,7 +5,7 @@ async function loadPage() {
 
     try {
 
-        const res = await fetch(`/pages/${page}.md`);
+        const res = await fetch(`pages/${page}.md`);
         const text = await res.text();
 
         const parsed = parseWikiPage(text);
