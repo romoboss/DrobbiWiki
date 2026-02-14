@@ -1,0 +1,22 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!--  Home Page  -->
+<url>
+<loc>https://drobbi-wiki.romoboss.com/</loc>
+<lastmod>2026-02-14</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+<!--  Gamemodes Page  -->
+<url>
+<loc>https://drobbi-wiki.romoboss.com/?page=gamemodes</loc>
+<lastmod>2026-02-14</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+  <!--  Characters Page  -->
+<url>
+<loc>https://drobbi-wiki.romoboss.com/?page=characters</loc>
+<lastmod>2026-02-14</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
