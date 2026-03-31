@@ -1,6 +1,7 @@
 ---
 title: romoboss
-image: DrobbiBirdIcon.png
+image: romoboss.png
+Name: romoboss
 Gender: Male (He/Him)
 Aliases: romoboy29, romoboss29, romobosss
 ---
