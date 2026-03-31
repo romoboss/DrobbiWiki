@@ -1,7 +1,7 @@
 ---
 title: Drobbi Bird
 image: DrobbiBirdIcon.png
-Developer: [romoboss](?page=romoboss)
+Developer: romoboss
 Game Engine: Unity
 Platforms: Android, Windows
 Release Date: 18th July 2023
