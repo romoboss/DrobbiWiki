@@ -1,7 +1,7 @@
 ---
 title: Drobbi Bird
 image: DrobbiBirdIcon.png
-Developer: romoboss
+Developer: [romoboss](?page=romoboss)
 Game Engine: Unity
 Platforms: Android, Windows
 Release Date: 18th July 2023
@@ -9,7 +9,7 @@ Genre: tap-scroller
 Version: 1.611
 ---
 
-**Drobbi Bird** is a tap-scroller video game developed by **romoboss**, also known as **romoboss29** or **romoboy29**. The game's core mechanics were based on the *Game Maker's Toolkit* YouTube tutorial, [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM).
+**Drobbi Bird** is a tap-scroller video game developed by [**romoboss**](?page=romoboss), also known as **romoboss29** or **romoboy29**. The game's core mechanics were based on the *Game Maker's Toolkit* YouTube tutorial, [The Unity Tutorial For Complete Beginners](https://youtu.be/XtQMytORBmM).
 
 ## Gameplay
 
